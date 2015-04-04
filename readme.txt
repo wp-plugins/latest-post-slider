@@ -18,3 +18,7 @@ Ever wanted to display a featured post slider or a latest post slider on your Wo
 2. Extract the plugin
 3. Go to Plugins > Installed plugins from your WordPress dashboard and activate ”Latest Post Slider” plugin.
 4. Go to Appearance > Widgets and drag and drop the "Latest Post Slider" widget to wherever you want to display the slider
+
+== Screenshots ==
+
+1. Latest Posts Slider demo.
